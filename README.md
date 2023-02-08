@@ -6,8 +6,7 @@ I'm a full stack developer<br>
   [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:inaseri.20@gmail.com)
   [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/iman-naseri)
   [<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/Iman_Naseri)
-  [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/inaseri) 
-  [<img src="[https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftoppng.com%2Ffree-image%2Fweb-png-jpg-transparent-stock-website-icon-blue-PNG-free-PNG-Images_285955&psig=AOvVaw0jx_GRdXyfP-oWh30t2egj&ust=1675943524155000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPj5kKXuhf0CFQAAAAAdAAAAABAJ)" />](https://inaseri.github.io/iman-naseri/) 
+  [<img src="https://toppng.com/uploads/preview/web-png-jpg-transparent-stock-website-icon-blue-11563644926reanjnmk6x.png" with="250" height="27" />](https://inaseri.github.io/iman-naseri/) 
   <br> <br>
 
 ## 🔧 Technologies & Tools
